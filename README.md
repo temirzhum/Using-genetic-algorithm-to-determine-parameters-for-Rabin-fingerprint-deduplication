@@ -1,20 +1,20 @@
-Using genetic algorithm to determine parameters for Rabin fingerprint deduplication
+# Using genetic algorithm to determine parameters for Rabin fingerprint deduplication
 
 
 
 Микробный генетический алгоритм подбирает параметры Rabin fingerprint для дедупликации данных. Фитнес — процент сэкономленного места после дедупликации тестового файла.
 
-Эволюционирующие параметры
+# Эволюционирующие параметры
 
 Степень и сам примитивный полином, размер скользящего окна, маска, минимальный и максимальный размер чанка.
 
-Требования
+# Требования
 
 Python 3.8+
 numpy, matplotlib
 Стандартная библиотека: os, random, hashlib, shutil
 
-Запуск
+# Запуск
 
 Запустите файл microbial_GA.py
 
