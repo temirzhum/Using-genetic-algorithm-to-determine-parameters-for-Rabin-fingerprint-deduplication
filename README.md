@@ -12,7 +12,6 @@
 
 Python 3.8+
 numpy, matplotlib
-Стандартная библиотека: os, random, hashlib, shutil
 
 # Запуск
 
